@@ -68,7 +68,3 @@ Ce projet démontre l'utilisation de Flutter pour créer une application de comm
 ### Techniques Illustrées
 - *Responsive Design* : L'application s'adapte à différentes tailles d'écran.
 - *Gestion des Erreurs* : Traitement des erreurs lors des appels API pour améliorer la robustesse de l'application.
-
----
-
-Vous pouvez personnaliser cette documentation en fonction de votre style et des détails spécifiques que vous souhaitez inclure. Cela donnera aux utilisateurs et aux développeurs une vue complète de votre projet.
